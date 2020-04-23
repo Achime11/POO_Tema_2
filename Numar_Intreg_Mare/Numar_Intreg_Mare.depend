@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1587659106 source:e:\valy11\programare\c++\poo\numar_intreg_mare\main.cpp
+	<iostream>
+	"Nr_Natural_Mare.h"
+	"Nr_Intreg_Mare.h"
+
+1587657213 e:\valy11\programare\c++\poo\numar_intreg_mare\include\nr_natural_mare.h
+	"InvalidFirstDigit.h"
+	<iostream>
+
+1587658754 source:e:\valy11\programare\c++\poo\numar_intreg_mare\src\nr_natural_mare.cpp
+	"Nr_Natural_Mare.h"
+	<iostream>
+
+1587659190 source:e:\valy11\programare\c++\poo\numar_intreg_mare\src\nr_intreg_mare.cpp
+	"Nr_Intreg_Mare.h"
+	<iostream>
+
+1587646518 source:e:\valy11\programare\c++\poo\numar_intreg_mare\src\invalidfirstdigit.cpp
+
+1587647256 e:\valy11\programare\c++\poo\numar_intreg_mare\include\invalidfirstdigit.h
+	<exception>
+
+1587659226 e:\valy11\programare\c++\poo\numar_intreg_mare\include\nr_intreg_mare.h
+	<iostream>
+	"Nr_Natural_Mare.h"
+
